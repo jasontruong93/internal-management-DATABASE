@@ -1,0 +1,21 @@
+SSN,Fname,Lname,DOB,Date_Joined,Date_Departed,Position ,Salary,WorkOn,Manager,Username,Password
+520420390,eddie,gaedel,1985-06-07,2015-08-19,,Software Developer,81000,84241,566372296,gaedeed01,gea7382
+385038420,tom,healey,1987-07-13,2015-06-13,2017-03-02,Software Developer,70000,94022,384367164,healeto01,heal9499
+793758384,bill,finley,1990-08-28,2017-07-12,,Front-end Developer,93000,38423,268406918,finlebi01,finlebi3493
+749137592,tom,morrison,1991-07-10,2014-09-18,,Full-stack Developer,83000,95311,792517382,morrito02,morrito3043
+958274221,larry,corcoran,1985-05-04,2019-07-12,,Back-end Developer,75000,48345,208465228,corcola01,corcola3321
+443055831,jess,cortazzo,1991-07-27,2018-08-15,,Software Tester,69000,39532,964568928,cortaje01,cortaje3043
+184294734,yale,murphy,1988-07-09,2018-04-19,,Full-stack Developer,88000,74329,526617512,murphya01,murphya4490
+192583053,cub,stricker,1989-05-20,2013-05-02,,Back-end Developer,89000,48345,197198563,striccu01,striccu4509
+583958376,mike,mcCormack,1993-05-18,2014-04-14,,Back-end Developer,80000,48345,214887360,mccormi01,mccormi3321
+392583059,dickey,pearce,1989-04-18,2012-05-18,2018-06-07,Front-end Developer,85000,94022,566372296,pearcdi01,pearcdi3055
+842593750,yoyo,davalillo,1980-04-16,2016-08-01,,Software Developer,92000,74329,384367164,davalyo01,davalyo3934
+244852942,frank,shannon,1985-09-14,2019-10-01,,Full-stack Developer,79000,84241,268406918,shannfr01,shannfr3422
+482583955,bob,emmerich,1982-06-15,2020-09-22,,Software Tester,74000,94022,792517382,emmerbo01,emmerbo8312
+284965335,stubby,magner,1986-04-18,2015-07-12,,Front-end Developer,81000,38423,208465228,magnest01,magnest1923
+583943284,ernie,oravetz,1989-06-25,2016-04-11,,Software Tester,70000,95311,964568928,oraveer01,oraveer9021
+773635946,tony,rego,1993-09-03,2013-06-21,2020-08-24,Back-end Developer,93000,48345,526617512,regoto01 ,regoto4204
+935223582,dinty,gearin,1994-09-06,2013-08-06,,Full-stack Developer,83000,39532,197198563,gearidi01,gearidi2349
+459341058,monte,pfeffer,1988-05-14,2017-09-29,,Full-stack Developer,75000,74329,214887360,peffemo01,peffemo9031
+485395834,kid,mohler,1985-08-29,2020-09-29,,Front-end Developer,69000,95311,566372296,mohleki01,mohleki5392
+592495864,lee,viau,1992-08-19,2018-04-22,,Front-end Developer,88000,48345,384367164,viaule01 ,viaule0129

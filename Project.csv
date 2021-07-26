@@ -1,0 +1,8 @@
+projID,Name,Description,Budget,Supervisor,StartDate,EndDate,isProduct
+84241,Website Alpha,Building the customer facing part of website.,123000,566372296,2017-04-17,2018-04-28,TRUE
+94022,Windows/MacOS/Linux Application,Building desktop applications to further exapand business.,230000,384367164,2019-06-01,2020-05-04,TRUE
+38423,Database Building,Building the database backend of applications.,150000,268406918,2015-08-21,2016-09-30,FALSE
+95311,Unified UI and UX Creation,Creating a unified and recognizable UI and UX to be used across all company apps.,280000,964568928,2017-09-24,2018-06-18,TRUE
+48345,iOS/Android Application,Building mobile apps.,250000,526617512,2016-08-28,2017-04-14,FALSE
+39532,Database Upgrade,Upgrading database to keep up with modern needs of applictions.,230000,197198563,2018-05-01,2019-09-11,TRUE
+74329,Internal Software Testing Tools,Tools to make robust software making an easier process.,170000,792517382,2018-08-24,2019-07-07,FALSE
